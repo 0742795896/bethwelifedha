@@ -17,5 +17,5 @@ def resume():
 def projects():
     return render_template ("projects.html")
 
-if __name__ == "__main__":
+if __name__ == " app__":
     app.run()
